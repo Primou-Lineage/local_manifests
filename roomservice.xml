@@ -22,6 +22,7 @@
     <!-- TWRP-Recovery -->
     <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" revision="android-7.1" />
 
-    <!-- Skia Library -->
-    <project name="android/platform_external_skia" path="device/htc/msm7x30-common/libshims" revision="nougat-release" />
+    <!-- Busybox -->
+    <project name="LineageOS/android_external_busybox" path="external/busybox" revision="cm-14.1" />
+
 </manifest>
